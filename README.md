@@ -15,6 +15,6 @@
 5) Работа с асинхронными запросами (через createAsyncThunk или стандартные эффекты).
 
 💻 Как запустить локально
-- Клонируйте: `git clone https://github.com`
+- Клонируйте: `git clone https://github.com/tyrex-kn/gameshop__vite-ts-react-redux-localStorage-firebase.git`
 - Установите зависимости: npm install
 - Создавать .env не нужно - внутри уже есть настроенный firebase (специально для примера работы).
