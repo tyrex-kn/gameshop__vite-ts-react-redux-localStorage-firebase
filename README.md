@@ -43,5 +43,6 @@
    ```
 
 ## ⚙️ Настройка окружения (Firebase)
-
 Для демонстрации работы, firebase уже подключен в коде. Поэтому .env здесь не используется
+<img width="1920" height="919" alt="chrome_tJkOp35DZJ" src="https://github.com/user-attachments/assets/b1efb4b0-fc3c-444d-a4e7-32466f217e79" />
+
