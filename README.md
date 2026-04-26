@@ -23,7 +23,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/tyrex-kn/gameshop__vite-ts-react-redux-localStorage-firebase.git
    ```
 
 2. Перейдите в папку проекта:
