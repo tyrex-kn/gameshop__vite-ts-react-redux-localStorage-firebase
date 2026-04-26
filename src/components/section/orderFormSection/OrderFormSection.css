@@ -1,0 +1,17 @@
+.order-form-section{
+    display: grid;
+    row-gap: 20px;
+}
+
+.form__input-content input:not(#form-tel){
+    font-size: 15px;
+    padding: 10px;
+     border: 1px solid white;
+}
+
+#form-tel, .form__input-content span{
+    font-size: 20px;
+    border: none;
+}
+
+

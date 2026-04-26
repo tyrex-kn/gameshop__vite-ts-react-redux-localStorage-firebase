@@ -1,0 +1,9 @@
+.user-details p {
+  margin: 5px 0;
+  font-size: 16px;
+}
+
+.user-details p span {
+  font-weight: 600;
+  font-style: italic;
+}

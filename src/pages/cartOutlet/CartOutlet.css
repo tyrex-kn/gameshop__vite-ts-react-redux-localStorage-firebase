@@ -1,0 +1,21 @@
+.cart-page {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    row-gap: 10px;
+    padding-bottom: 60px;
+}
+
+.cart-page__up{
+    border-bottom: 1px solid white;
+}
+
+.cart-page__down {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.cart-page__total-price{
+    display: flex;
+    justify-content: space-between;
+}

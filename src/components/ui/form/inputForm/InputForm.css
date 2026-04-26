@@ -1,0 +1,11 @@
+.form__input-content{
+    display: grid;
+    row-gap: 5px; 
+}
+
+.form__input-content input, .form__input-content textarea{
+    background: none;
+    color: white;
+    border-radius: 5px;
+    outline: none;
+}
