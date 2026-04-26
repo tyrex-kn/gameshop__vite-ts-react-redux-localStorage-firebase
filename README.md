@@ -1,4 +1,5 @@
 # 🎮 GameShop
+<img width="1920" height="919" alt="chrome_n5gp7tmYpV" src="https://github.com/user-attachments/assets/4bdcc084-4b69-4d4d-8a0b-546b9688f6b9" />
 
 Современный интернет-магазин видеоигр, построенный на React и TypeScript с интеграцией Firebase для хранения данных.
 
